@@ -21,7 +21,7 @@
 		<![endif]-->
 
 		<!-- Custom styles for this template -->
-		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="assets/css/style.css" />
 	</head>
 	<body>
 		<div class="container">
@@ -63,7 +63,7 @@
 			</div><!-- ends row -->
 		</div><!-- ends container -->
 		<!-- Validation du formulaire -->
-		<script src="form.js"></script>
+		<script src="assets/js/form.js"></script>
 				<!-- jQuery -->
 		<script src="//code.jquery.com/jquery.js"></script>
 		<!-- Bootstrap JavaScript -->
